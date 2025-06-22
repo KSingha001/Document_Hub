@@ -22,14 +22,7 @@ project-root/
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone [https://github.com/your-username/mern-file-manager.git](https://github.com/SudeepBhandari02/dummy-web-doc-sharing)
-cd dummy-web-doc-sharing
-```
-
-### 2. Install dependencies
+### 1. Install dependencies
 
 ```bash
 cd backend
@@ -38,7 +31,7 @@ cd ../frontend
 npm install
 ```
 
-### 3. Start development servers
+### 2. Start development servers
 
 ```bash
 # In backend/
